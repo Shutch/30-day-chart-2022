@@ -4,34 +4,9 @@
 	"className": "HS1992",
 	"minimumInputLength": 2,
 	"results": [{
-		"id": "ALL",
-		"text": "All HS1992 commodities",
-		"parent": "#"
-	},
-	{
-		"id": "TOTAL",
-		"text": "Total of all HS1992 commodities",
-		"parent": "#"
-	},
-	{
-		"id": "AG2",
-		"text": "AG2 - All 2-digit HS1992 commodities",
-		"parent": "#"
-	},
-	{
-		"id": "AG4",
-		"text": "AG4 - All 4-digit HS1992 commodities",
-		"parent": "#"
-	},
-	{
-		"id": "AG6",
-		"text": "AG6 - All 6-digit HS1992 commodities",
-		"parent": "#"
-	},
-	{
 		"id": "01",
 		"text": "01 - Animals; live",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "0101",
@@ -141,7 +116,7 @@
 	{
 		"id": "02",
 		"text": "02 - Meat and edible meat offal",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "0201",
@@ -446,7 +421,7 @@
 	{
 		"id": "03",
 		"text": "03 - Fish and crustaceans, molluscs and other aquatic invertebrates",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "0301",
@@ -921,7 +896,7 @@
 	{
 		"id": "04",
 		"text": "04 - Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "0401",
@@ -1101,7 +1076,7 @@
 	{
 		"id": "05",
 		"text": "05 - Animal originated products; not elsewhere specified or included",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "0501",
@@ -1246,7 +1221,7 @@
 	{
 		"id": "06",
 		"text": "06 - Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "0601",
@@ -1336,7 +1311,7 @@
 	{
 		"id": "07",
 		"text": "07 - Vegetables and certain roots and tubers; edible",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "0701",
@@ -1696,7 +1671,7 @@
 	{
 		"id": "08",
 		"text": "08 - Fruit and nuts, edible; peel of citrus fruit or melons",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "0801",
@@ -2021,7 +1996,7 @@
 	{
 		"id": "09",
 		"text": "09 - Coffee, tea, mate and spices",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "0901",
@@ -2241,7 +2216,7 @@
 	{
 		"id": "10",
 		"text": "10 - Cereals",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "1001",
@@ -2366,7 +2341,7 @@
 	{
 		"id": "11",
 		"text": "11 - Products of the milling industry; malt, starches, inulin, wheat gluten",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "1101",
@@ -2586,7 +2561,7 @@
 	{
 		"id": "12",
 		"text": "12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "1201",
@@ -2881,7 +2856,7 @@
 	{
 		"id": "13",
 		"text": "13 - Lac; gums, resins and other vegetable saps and extracts",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "1301",
@@ -2956,7 +2931,7 @@
 	{
 		"id": "14",
 		"text": "14 - Vegetable plaiting materials; vegetable products not elsewhere specified or included",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "1401",
@@ -3036,7 +3011,7 @@
 	{
 		"id": "15",
 		"text": "15 - Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "1501",
@@ -3416,7 +3391,7 @@
 	{
 		"id": "16",
 		"text": "16 - Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "1601",
@@ -3571,7 +3546,7 @@
 	{
 		"id": "17",
 		"text": "17 - Sugars and sugar confectionery",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "1701",
@@ -3671,7 +3646,7 @@
 	{
 		"id": "18",
 		"text": "18 - Cocoa and cocoa preparations",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "1801",
@@ -3761,7 +3736,7 @@
 	{
 		"id": "19",
 		"text": "19 - Preparations of cereals, flour, starch or milk; pastrycooks' products",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "1901",
@@ -3871,7 +3846,7 @@
 	{
 		"id": "20",
 		"text": "20 - Preparations of vegetables, fruit, nuts or other parts of plants",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "2001",
@@ -4146,7 +4121,7 @@
 	{
 		"id": "21",
 		"text": "21 - Miscellaneous edible preparations",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "2101",
@@ -4256,7 +4231,7 @@
 	{
 		"id": "22",
 		"text": "22 - Beverages, spirits and vinegar",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "2201",
@@ -4411,7 +4386,7 @@
 	{
 		"id": "23",
 		"text": "23 - Food industries, residues and wastes thereof; prepared animal fodder",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "2301",
@@ -4581,7 +4556,7 @@
 	{
 		"id": "24",
 		"text": "24 - Tobacco and manufactured tobacco substitutes",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "2401",
@@ -4646,7 +4621,7 @@
 	{
 		"id": "25",
 		"text": "25 - Salt; sulphur; earths, stone; plastering materials, lime and cement",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "2501",
@@ -5186,7 +5161,7 @@
 	{
 		"id": "26",
 		"text": "26 - Ores, slag and ash",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "2601",
@@ -5466,7 +5441,7 @@
 	{
 		"id": "27",
 		"text": "27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "2701",
@@ -5751,7 +5726,7 @@
 	{
 		"id": "28",
 		"text": "28 - Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "2801",
@@ -6961,7 +6936,7 @@
 	{
 		"id": "29",
 		"text": "29 - Organic chemicals",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "2901",
@@ -8661,7 +8636,7 @@
 	{
 		"id": "30",
 		"text": "30 - Pharmaceutical products",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "3001",
@@ -8846,7 +8821,7 @@
 	{
 		"id": "31",
 		"text": "31 - Fertilizers",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "3101",
@@ -9006,7 +8981,7 @@
 	{
 		"id": "32",
 		"text": "32 - Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "3201",
@@ -9316,7 +9291,7 @@
 	{
 		"id": "33",
 		"text": "33 - Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "3301",
@@ -9526,7 +9501,7 @@
 	{
 		"id": "34",
 		"text": "34 - Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, \"dental waxes\" and dental preparations with a basis of plaster",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "3401",
@@ -9681,7 +9656,7 @@
 	{
 		"id": "35",
 		"text": "35 - Albuminoidal substances; modified starches; glues; enzymes",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "3501",
@@ -9786,7 +9761,7 @@
 	{
 		"id": "36",
 		"text": "36 - Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "3601",
@@ -9861,7 +9836,7 @@
 	{
 		"id": "37",
 		"text": "37 - Photographic or cinematographic goods",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "3701",
@@ -10081,7 +10056,7 @@
 	{
 		"id": "38",
 		"text": "38 - Chemical products n.e.s.",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "3801",
@@ -10486,7 +10461,7 @@
 	{
 		"id": "39",
 		"text": "39 - Plastics and articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "3901",
@@ -11236,7 +11211,7 @@
 	{
 		"id": "40",
 		"text": "40 - Rubber and articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "4001",
@@ -11656,7 +11631,7 @@
 	{
 		"id": "41",
 		"text": "41 - Raw hides and skins (other than furskins) and leather",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "4101",
@@ -11886,7 +11861,7 @@
 	{
 		"id": "42",
 		"text": "42 - Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "4201",
@@ -12031,7 +12006,7 @@
 	{
 		"id": "43",
 		"text": "43 - Furskins and artificial fur; manufactures thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "4301",
@@ -12146,7 +12121,7 @@
 	{
 		"id": "44",
 		"text": "44 - Wood and articles of wood; wood charcoal",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "4401",
@@ -12586,7 +12561,7 @@
 	{
 		"id": "45",
 		"text": "45 - Cork and articles of cork",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "4501",
@@ -12646,7 +12621,7 @@
 	{
 		"id": "46",
 		"text": "46 - Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "4601",
@@ -12691,7 +12666,7 @@
 	{
 		"id": "47",
 		"text": "47 - Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "4701",
@@ -12826,7 +12801,7 @@
 	{
 		"id": "48",
 		"text": "48 - Paper and paperboard; articles of paper pulp, of paper or paperboard",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "4801",
@@ -12880,7 +12855,7 @@
 	},
 	{
 		"id": "480260",
-		"text": "480260 - Paper and paperboard; uncoated, with more than 10% by weight of the total fibre content obtained by a mechanical process, in rolls or sheets",
+		"text": "480260 - Paper and paperboard; uncoated, with more than 10% by weight of the  fibre content obtained by a mechanical process, in rolls or sheets",
 		"parent": "4802"
 	},
 	{
@@ -12935,7 +12910,7 @@
 	},
 	{
 		"id": "480442",
-		"text": "480442 - Kraft paper and paperboard; uncoated, weight between 150 and 225g\/m2, bleached uniformly throughout, more than 95% of total fibre content consists of chemically processed wood fibres, in rolls or sheets",
+		"text": "480442 - Kraft paper and paperboard; uncoated, weight between 150 and 225g\/m2, bleached uniformly throughout, more than 95% of  fibre content consists of chemically processed wood fibres, in rolls or sheets",
 		"parent": "4804"
 	},
 	{
@@ -12950,7 +12925,7 @@
 	},
 	{
 		"id": "480452",
-		"text": "480452 - Kraft paper and paperboard; uncoated, weight 225g\/m2 or more, bleached uniformly throughout, more than 95% of total fibre content consists of chemically processed wood fibres, in rolls or sheets",
+		"text": "480452 - Kraft paper and paperboard; uncoated, weight 225g\/m2 or more, bleached uniformly throughout, more than 95% of  fibre content consists of chemically processed wood fibres, in rolls or sheets",
 		"parent": "4804"
 	},
 	{
@@ -13501,7 +13476,7 @@
 	{
 		"id": "49",
 		"text": "49 - Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "4901",
@@ -13656,7 +13631,7 @@
 	{
 		"id": "50",
 		"text": "50 - Silk",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "5001",
@@ -13746,7 +13721,7 @@
 	{
 		"id": "51",
 		"text": "51 - Wool, fine or coarse animal hair; horsehair yarn and woven fabric",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "5101",
@@ -13996,7 +13971,7 @@
 	{
 		"id": "52",
 		"text": "52 - Cotton",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "5201",
@@ -14696,7 +14671,7 @@
 	{
 		"id": "53",
 		"text": "53 - Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "5301",
@@ -14911,7 +14886,7 @@
 	{
 		"id": "54",
 		"text": "54 - Man-made filaments",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "5401",
@@ -15281,7 +15256,7 @@
 	{
 		"id": "55",
 		"text": "55 - Man-made staple fibres",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "5501",
@@ -15941,7 +15916,7 @@
 	{
 		"id": "56",
 		"text": "56 - Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "5601",
@@ -16126,7 +16101,7 @@
 	{
 		"id": "57",
 		"text": "57 - Carpets and other textile floor coverings",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "5701",
@@ -16271,7 +16246,7 @@
 	{
 		"id": "58",
 		"text": "58 - Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "5801",
@@ -16536,7 +16511,7 @@
 	{
 		"id": "59",
 		"text": "59 - Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "5901",
@@ -16721,7 +16696,7 @@
 	{
 		"id": "60",
 		"text": "60 - Fabrics; knitted or crocheted",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "6001",
@@ -16826,7 +16801,7 @@
 	{
 		"id": "61",
 		"text": "61 - Apparel and clothing accessories; knitted or crocheted",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "6101",
@@ -17486,7 +17461,7 @@
 	{
 		"id": "62",
 		"text": "62 - Apparel and clothing accessories; not knitted or crocheted",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "6201",
@@ -18171,7 +18146,7 @@
 	{
 		"id": "63",
 		"text": "63 - Textiles, made up articles; sets; worn clothing and worn textile articles; rags",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "6301",
@@ -18516,7 +18491,7 @@
 	{
 		"id": "64",
 		"text": "64 - Footwear; gaiters and the like; parts of such articles",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "6401",
@@ -18696,7 +18671,7 @@
 	{
 		"id": "65",
 		"text": "65 - Headgear and parts thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "6501",
@@ -18791,7 +18766,7 @@
 	{
 		"id": "66",
 		"text": "66 - Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "6601",
@@ -18846,7 +18821,7 @@
 	{
 		"id": "67",
 		"text": "67 - Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "6701",
@@ -18911,7 +18886,7 @@
 	{
 		"id": "68",
 		"text": "68 - Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "6801",
@@ -19256,7 +19231,7 @@
 	{
 		"id": "69",
 		"text": "69 - Ceramic products",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "6901",
@@ -19471,7 +19446,7 @@
 	{
 		"id": "70",
 		"text": "70 - Glass and glassware",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "7001",
@@ -19861,7 +19836,7 @@
 	{
 		"id": "71",
 		"text": "71 - Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "7101",
@@ -20216,7 +20191,7 @@
 	{
 		"id": "72",
 		"text": "72 - Iron and steel",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "7201",
@@ -21336,7 +21311,7 @@
 	{
 		"id": "73",
 		"text": "73 - Iron or steel articles",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "7301",
@@ -22061,7 +22036,7 @@
 	{
 		"id": "74",
 		"text": "74 - Copper and articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "7401",
@@ -22451,7 +22426,7 @@
 	{
 		"id": "75",
 		"text": "75 - Nickel and articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "7501",
@@ -22576,7 +22551,7 @@
 	{
 		"id": "76",
 		"text": "76 - Aluminium and articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "7601",
@@ -22831,7 +22806,7 @@
 	{
 		"id": "78",
 		"text": "78 - Lead and articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "7801",
@@ -22916,7 +22891,7 @@
 	{
 		"id": "79",
 		"text": "79 - Zinc and articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "7901",
@@ -23011,7 +22986,7 @@
 	{
 		"id": "80",
 		"text": "80 - Tin; articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "8001",
@@ -23096,7 +23071,7 @@
 	{
 		"id": "81",
 		"text": "81 - Metals; n.e.s., cermets and articles thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "8101",
@@ -23346,7 +23321,7 @@
 	{
 		"id": "82",
 		"text": "82 - Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "8201",
@@ -23751,7 +23726,7 @@
 	{
 		"id": "83",
 		"text": "83 - Metal; miscellaneous products of base metal",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "8301",
@@ -23991,7 +23966,7 @@
 	{
 		"id": "84",
 		"text": "84 - Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "8401",
@@ -26911,7 +26886,7 @@
 	{
 		"id": "85",
 		"text": "85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "8501",
@@ -28476,7 +28451,7 @@
 	{
 		"id": "86",
 		"text": "86 - Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "8601",
@@ -28646,7 +28621,7 @@
 	{
 		"id": "87",
 		"text": "87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "8701",
@@ -29111,7 +29086,7 @@
 	{
 		"id": "88",
 		"text": "88 - Aircraft, spacecraft and parts thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "8801",
@@ -29216,7 +29191,7 @@
 	{
 		"id": "89",
 		"text": "89 - Ships, boats and floating structures",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "8901",
@@ -29346,7 +29321,7 @@
 	{
 		"id": "90",
 		"text": "90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "9001",
@@ -30276,7 +30251,7 @@
 	{
 		"id": "91",
 		"text": "91 - Clocks and watches and parts thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "9101",
@@ -30626,7 +30601,7 @@
 	{
 		"id": "92",
 		"text": "92 - Musical instruments; parts and accessories of such articles",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "9201",
@@ -30791,7 +30766,7 @@
 	{
 		"id": "93",
 		"text": "93 - Arms and ammunition; parts and accessories thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "9301",
@@ -30916,7 +30891,7 @@
 	{
 		"id": "94",
 		"text": "94 - Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "9401",
@@ -31136,7 +31111,7 @@
 	{
 		"id": "95",
 		"text": "95 - Toys, games and sports requisites; parts and accessories thereof",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "9501",
@@ -31396,7 +31371,7 @@
 	{
 		"id": "96",
 		"text": "96 - Miscellaneous manufactured articles",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "9601",
@@ -31746,7 +31721,7 @@
 	{
 		"id": "97",
 		"text": "97 - Works of art; collectors' pieces and antiques",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "9701",
@@ -31816,7 +31791,7 @@
 	{
 		"id": "99",
 		"text": "99 - Commodities not specified according to kind",
-		"parent": "TOTAL"
+		"parent": null
 	},
 	{
 		"id": "9999",
@@ -31922,10 +31897,5 @@
 		"id": "271099",
 		"text": "271099 - Petroleum oils and products nes **LEGACY NON-WCO CODE**",
 		"parent": "2710"
-	},
-	{
-		"id": "9999AA",
-		"text": "9999AA - Commodities not specified according to kind **LEGACY NON-WCO CODE**",
-		"parent": "9999"
 	}]
 }
