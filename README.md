@@ -8,3 +8,9 @@ https://github.com/dominicroye/30DayChartChallenge_Edition2022
 
 ### Day 2 - Pictogram
 ![Day 2 Population](2/guam_village_population_2010.png)
+
+### Day 3 - Historical
+![Day 3 Monthly Visitors](3/guam_arrivals_monthly_2005_2021.png)
+![Day 3 Annual Visitors](3/guam_arrivals_annual_2005_2021.png)
+![Day 3 Monthly Visitors Since Coronavirus](3/guam_arrivals_monthly_2020_2021.png)
+![Day 3 Annual Percent Visitors](3/guam_arrivals_annual_percent_2005_2021.png)
