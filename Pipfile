@@ -9,6 +9,7 @@ plotly = "*"
 pandas = "*"
 matplotlib = "*"
 pywaffle = "*"
+bokeh = "*"
 
 [dev-packages]
 
