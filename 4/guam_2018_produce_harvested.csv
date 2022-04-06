@@ -1,0 +1,47 @@
+Type,Crop,Farms,Acres,Trees,Pounds Harvested
+Root,Cassava (tapioca),24,4,,6250
+Root,Gado,10,1,,2350
+Root,Ginger,24,3,,729
+Root,Sweet potatoes,18,2,,3665
+Root,Taro,35,6,,8737
+Root,Yams,28,4,,12474
+Vegetable,Alfalfa and/or bean sprouts,5,,,110
+Vegetable,"Beans, winged",32,6,,6453
+Vegetable,"Beans, yard long",48,21,,82563
+Vegetable,"Beans, all others",7,2,,762
+Fruit,Bittermelons,41,19,,122770
+Vegetable,"Cabbage, Chinese",14,4,,9730
+Vegetable,"Cabbage, head",1,,,
+Fruit,Cantaloups,0,0,,0
+Vegetable,Corn,9,34,,91530
+Vegetable,Cucumbers,53,80,,302647
+Vegetable,Eggplant,97,37,,171583
+Fruit,Muskmelons and pepinos,8,6,,19460
+Vegetable,Okra,50,15,,22176
+Vegetable,"Onions, green",27,3,,801
+Vegetable,"Peppers, hot",110,25,,28661
+Vegetable,"Peppers, sweet",4,,,
+Vegetable,Pumpkins and squash,41,13,,36656
+Vegetable,Radishes,10,3,,8237
+Vegetable,Tomatoes,55,24,,152182
+Fruit,Watermelons,12,45,,398811
+Vegetable,Other fruits and nuts,35,15,,37070
+Fruit,Avocados,122,,500,29194
+Fruit,Bananas (all types),157,,27531,443379
+Nut,Betelnuts,80,,33234,7404
+Fruit,Breadfruits,89,,898,44365
+Fruit,Coconuts,81,,2507,97625
+Nut,Coffee,8,,11,
+Fruit,Dragon Fruit,51,,1828,11054
+Fruit,Grapefruit,31,,117,3429
+Fruit,Guavas,78,,1413,5434
+Fruit,Lemons and limes,161,,3230,44563
+Fruit,Mangos,131,,695,74343
+Fruit,Oranges,19,,48,588
+Fruit,Papayas,105,,4100,61269
+Fruit,Pineapples,48,,4107,9068
+Fruit,Soursops,121,,1899,27250
+Fruit,Starfruits,68,,174,4605
+Fruit,Sweetsops,55,,347,3185
+Fruit,Tangerines,46,,332,6766
+Fruit,Other fruits and nuts,54,,358,6664
