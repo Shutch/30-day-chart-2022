@@ -10,6 +10,8 @@ pandas = "*"
 matplotlib = "*"
 pywaffle = "*"
 bokeh = "*"
+geopandas = "*"
+numpy = "*"
 
 [dev-packages]
 
