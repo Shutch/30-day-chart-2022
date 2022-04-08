@@ -12,6 +12,8 @@ pywaffle = "*"
 bokeh = "*"
 geopandas = "*"
 numpy = "*"
+pillow = "*"
+seaborn = "*"
 
 [dev-packages]
 
