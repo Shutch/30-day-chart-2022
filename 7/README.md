@@ -10,5 +10,5 @@ on Guam.
 
 [Jupyter Notebook](day7.ipynb)
 
-![Urbanization Percentage](geological_distribution.png)
-![Urbanization Percentage](mean_location_proportion.png)
+![Geological Distribution](geological_distribution.png)
+![Mean Location and Proportion](mean_location_proportion.png)
