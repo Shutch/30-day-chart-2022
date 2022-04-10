@@ -11,8 +11,8 @@ https://github.com/dominicroye/30DayChartChallenge_Edition2022
 - [X] [Day 6 - Our World In Data (OWID)](6/README.md)
 
 ## Distributions
-- [ ] [Day 7 - Physical](7/README.md)
-- [ ] [Day 8 - Mountains](8/README.md)
+- [X] [Day 7 - Physical](7/README.md)
+- [X] [Day 8 - Mountains](8/README.md)
 - [ ] [Day 9 - Statistics](9/README.md)
 - [ ] [Day 10 - Experimental](10/README.md)
 - [ ] [Day 11 - Circular](11/README.md)
