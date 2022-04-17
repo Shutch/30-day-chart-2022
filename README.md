@@ -16,7 +16,7 @@ https://github.com/dominicroye/30DayChartChallenge_Edition2022
 - [X] [Day 9 - Statistics](9/README.md)
 - [X] [Day 10 - Experimental](10/README.md)
 - [X] [Day 11 - Circular](11/README.md)
-- [ ] [Day 12 - The Economist](12/README.md)
+- [X] [Day 12 - The Economist](12/README.md)
 
 ## Relationships
 - [ ] [Day 13 - Correlation](13/README.md)
