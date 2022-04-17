@@ -15,7 +15,7 @@ https://github.com/dominicroye/30DayChartChallenge_Edition2022
 - [X] [Day 8 - Mountains](8/README.md)
 - [X] [Day 9 - Statistics](9/README.md)
 - [X] [Day 10 - Experimental](10/README.md)
-- [ ] [Day 11 - Circular](11/README.md)
+- [X] [Day 11 - Circular](11/README.md)
 - [ ] [Day 12 - The Economist](12/README.md)
 
 ## Relationships
