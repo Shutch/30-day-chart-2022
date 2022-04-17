@@ -7,5 +7,5 @@ day in 2021 on Guam. An animated version is also included.
 [Jupyter Notebook](day11.ipynb)
 
 ![Guam Daily Weather](weather_measurements.png)
-![Guam Daily Weather (Animated)](weather_measurements.gif)
+![Guam Daily Weather (Animated)](weather_measurements.mp4)
 
