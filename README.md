@@ -19,7 +19,7 @@ https://github.com/dominicroye/30DayChartChallenge_Edition2022
 - [X] [Day 12 - The Economist](12/README.md)
 
 ## Relationships
-- [ ] [Day 13 - Correlation](13/README.md)
+- [X] [Day 13 - Correlation](13/README.md)
 - [ ] [Day 14 - Three-dimensional](14/README.md)
 - [ ] [Day 15 - Multivariate](15/README.md)
 - [ ] [Day 16 - Environment](16/README.md)
