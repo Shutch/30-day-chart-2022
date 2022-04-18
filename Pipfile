@@ -18,6 +18,7 @@ rasterio = "==1.3a3"
 osmnx = "*"
 networkx = "*"
 folium = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
