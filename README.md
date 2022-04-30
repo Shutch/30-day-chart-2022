@@ -21,7 +21,7 @@ https://github.com/dominicroye/30DayChartChallenge_Edition2022
 ## Relationships
 - [X] [Day 13 - Correlation](13/README.md)
 - [ ] [Day 14 - Three-dimensional](14/README.md)
-- [ ] [Day 15 - Multivariate](15/README.md)
+- [X] [Day 15 - Multivariate](15/README.md)
 - [ ] [Day 16 - Environment](16/README.md)
 - [ ] [Day 17 - Connections](17/README.md)
 - [ ] [Day 18 - Organization for Economic Cooperation (OECD)](18/README.md)
@@ -41,4 +41,3 @@ https://github.com/dominicroye/30DayChartChallenge_Edition2022
 - [ ] [Day 28 - Deviations](28/README.md)
 - [ ] [Day 29 - Storytelling](29/README.md)
 - [ ] [Day 30 - United Nations Population](30/README.md)
-
